@@ -1,0 +1,4 @@
+username: "admin"
+password: "admin"
+website: "https://www.webull.com/"
+drive: "chromedriver_win32\\chromedriver.exe"
